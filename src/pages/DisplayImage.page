@@ -1,0 +1,7 @@
+<!--
+ - Created by stevendykstra on 9/2/17.
+ -->
+
+<apex:page showHeader="false" id="DisplayImage">
+    <apex:image alt="developer logo" url="https://developer.salesforce.com/files/salesforce-developer-network-logo.png"/>
+</apex:page>

@@ -1,0 +1,11 @@
+<!--
+ - Created by stevendykstra on 9/4/17.
+ -->
+
+<apex:page id="DisplayUserInfo">
+    <apex:pageBlock title="Logged-In User">
+        <apex:pageBlockSection columns="1">
+            {! $User.FirstName }
+        </apex:pageBlockSection>
+    </apex:pageBlock>
+</apex:page>
