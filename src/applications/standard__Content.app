@@ -8,4 +8,5 @@
     <tab>standard-ContentSubscriptions</tab>
     <tab>standard-ContentFavorites</tab>
     <tab>Waypoint__c</tab>
+    <tab>Hotel__c</tab>
 </CustomApplication>

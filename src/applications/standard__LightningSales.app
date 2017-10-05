@@ -23,7 +23,8 @@
     <tab>standard-OtherUserProfile</tab>
     <tab>standard-Case</tab>
     <tab>standard-News</tab>
-    <tab>standard-ForecastingLightning</tab>
+    <tab>standard-Forecasting3</tab>
     <tab>Waypoint__c</tab>
+    <tab>Hotel__c</tab>
     <uiType>Lightning</uiType>
 </CustomApplication>

@@ -8,4 +8,5 @@
     <tab>standard-CollaborationGroup</tab>
     <tab>standard-File</tab>
     <tab>Waypoint__c</tab>
+    <tab>Hotel__c</tab>
 </CustomApplication>

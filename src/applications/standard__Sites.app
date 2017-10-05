@@ -5,4 +5,5 @@
     <tab>standard-Chatter</tab>
     <tab>standard-Sites</tab>
     <tab>Waypoint__c</tab>
+    <tab>Hotel__c</tab>
 </CustomApplication>

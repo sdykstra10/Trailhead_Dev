@@ -19,4 +19,5 @@
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
     <tab>Waypoint__c</tab>
+    <tab>Hotel__c</tab>
 </CustomApplication>

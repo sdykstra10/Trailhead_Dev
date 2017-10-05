@@ -11,6 +11,7 @@
     <tab>Waypoint__c</tab>
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
+    <tab>Hotel__c</tab>
     <uiType>Lightning</uiType>
     <utilityBar>Trailblazer_UtilityBar</utilityBar>
 </CustomApplication>

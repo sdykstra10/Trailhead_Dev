@@ -25,6 +25,7 @@
     <tab>Bot_Command__c</tab>
     <tab>standard-File</tab>
     <tab>Waypoint__c</tab>
+    <tab>Hotel__c</tab>
     <uiType>Lightning</uiType>
     <utilityBar>dreamhouseApplicationUtilityBar</utilityBar>
 </CustomApplication>

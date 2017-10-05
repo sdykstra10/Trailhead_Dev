@@ -175,7 +175,11 @@
     <tab>standard-Lead</tab>
     <tab>standard-Knowledge</tab>
     <tab>Waypoint__c</tab>
+    <tab>Hotel__c</tab>
     <workspaceMappings>
+        <mapping>
+            <tab>Hotel__c</tab>
+        </mapping>
         <mapping>
             <tab>Waypoint__c</tab>
         </mapping>

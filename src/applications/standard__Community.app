@@ -12,4 +12,5 @@
     <tab>standard-Dashboard</tab>
     <tab>standard-Questions</tab>
     <tab>Waypoint__c</tab>
+    <tab>Hotel__c</tab>
 </CustomApplication>

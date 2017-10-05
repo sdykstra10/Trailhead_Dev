@@ -4,4 +4,5 @@
     <formFactors>Large</formFactors>
     <tab>standard-AppLauncher</tab>
     <tab>Waypoint__c</tab>
+    <tab>Hotel__c</tab>
 </CustomApplication>
